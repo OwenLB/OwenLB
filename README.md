@@ -85,7 +85,6 @@ I am a 2nd-year Graduate Student at The University of Illinois at Chicago, pursu
 - 💞️ I’m looking to collaborate on JS project
 - 📫 How to reach me : On Git or email
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=owen.le.bec&count=1)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
