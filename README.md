@@ -1,7 +1,7 @@
 
 ## Hi there, [Owen](owenlebec.fr) here 👋🏼👨🏻‍💻
 
-[![Gmail Badge](https://img.shields.io/badge/-samujjwaal.dey@acuitybrands.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")
+<!-- [![Gmail Badge](https://img.shields.io/badge/-samujjwaal.dey@acuitybrands.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samujjwaal/ "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/daftdey "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-@samujjwaal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=samujjwaal "Follow on Twitter")
@@ -42,9 +42,9 @@ I am a 2nd-year Graduate Student at The University of Illinois at Chicago, pursu
 [![Reddit Badge](https://img.shields.io/badge/-u/daftdey-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/daftdey/ "Find on Reddit")
 ----
 
-</details>
+</details> -->
 
-[![Profile last updated](https://img.shields.io/github/last-commit/samujjwaal/samujjwaal/master?label=Last%20updated&style=flat)](https://github.com/samujjwaal/samujjwaal/commits)
+<!-- [![Profile last updated](https://img.shields.io/github/last-commit/samujjwaal/samujjwaal/master?label=Last%20updated&style=flat)](https://github.com/samujjwaal/samujjwaal/commits) -->
 
 <!--For future reference 
 <a href="https://piraces.dev/"><img alt="Robot logo" src="https://github.com/piraces/piraces/raw/master/robot_dark.png" align="right" height="150" /></a>
@@ -80,12 +80,12 @@ I am a 2nd-year Graduate Student at The University of Illinois at Chicago, pursu
 
 
 
-<!-- - 👀 I’m interested in Web Development
+ - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full-stack Javascript
 - 💞️ I’m looking to collaborate on JS project
 - 📫 How to reach me : On Git or email
 
-<!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=owen.le.bec&count=1)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=owen.le.bec&count=1)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -100,4 +100,3 @@ I am a 2nd-year Graduate Student at The University of Illinois at Chicago, pursu
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=OwenLB&show_icons=true) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OwenLB&theme=blue-blue)
 
-<!-- <img src=https://komarev.com/ghpvc/?username = OwenLB/> --> -->
