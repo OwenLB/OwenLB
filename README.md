@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on JS project
 - 📫 How to reach me : On Git or email
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=OwenLB&show_icons=true)
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=OwenLB&show_icons=true) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OwenLB&theme=blue-blue)
 
