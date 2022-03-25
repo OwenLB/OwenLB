@@ -11,11 +11,14 @@
 <br/>
 
 <details>
-  <summary>💻 Quelques stats Github</summary>
+  <summary>💻 Ouais les stats ouais</summary>
+  
  <br/>
  
+   ![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
   [![My Github Stats](https://github-readme-stats.vercel.app/api?username=OwenLB&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/OwenLB)
-   <a href="https://owenlebec.fr"><img src="https://github.com/OwenLB/OwenLB/blob/main/ressources/IMG_2336.PNG" align="right" height="200" /></a>
+   <a href="https://owenlebec.fr"><img src="https://github.com/OwenLB/OwenLB/blob/main/ressources/IMG_2336.PNG" align="right" height="150" /></a>
  
 
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OwenLB&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
@@ -28,9 +31,9 @@
 </details>
 
 <details>
-  <summary>🌐 Développement</summary>
+  <summary>🤌 Ca code là</summary>
   
-  <a href="owenlebec.fr"><img src="https://github.com/OwenLB/OwenLB/blob/main/ressources/IMG_2336.PNG" align="right" height="150" /></a>
+  <a href="owenlebec.fr"><img src="https://github.com/OwenLB/OwenLB/blob/main/ressources/IMG_2335.PNG" align="right" height="150" /></a>
 
  ![JavaScript]( https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
