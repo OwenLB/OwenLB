@@ -1,20 +1,14 @@
 
-## Hi there, [Owen](owenlebec.fr) here 👋🏼👨🏻‍💻
+## Salut les gars c'est [Owen](owenlebec.fr) 👋
 
-<!-- [![Gmail Badge](https://img.shields.io/badge/-samujjwaal.dey@acuitybrands.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samujjwaal/ "Connect on LinkedIn")
-[![Telegram Badge](https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/daftdey "Contact on Telegram")
-[![Twitter Badge](https://img.shields.io/badge/-@samujjwaal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=samujjwaal "Follow on Twitter")
-[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/samujjwaal "Connect on Facebook")
+ [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lebec.owen@yahoo.fr "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/owenlb/ "Connect on LinkedIn")
 
-<a href="https://samujjwaal.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/hand_v.png" align="right" height="275" /></a>
-
-I am a 2nd-year Graduate Student at The University of Illinois at Chicago, pursuing a Masters in Computer Science, who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
-
-- 📭 [Reach out](#hi-there-samujjwaal-here) for help with MS CS in US, Data Science, Machine Learning, Python, and Scala
-- 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
-- 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
-- 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
+<a href="https://owenlebec.fr" target="blank"><img src="https://github.com/OwenLB/OwenLB/blob/main/ressources/IMG_2332.PNG" align="right" height="275" /></a>
+<br/>
+<p>👨‍🎓 Étudiant en M1 Développement Web FullStack a Università di Corsica Pasquale Paoli.</p>
+<p>👨‍💻 Apprenti Développeur Web chez Crédit Mutuel Arkéa</p>
+<br/>
 
 <details>
   <summary>Some of my Github Public Stats :computer:</summary>
@@ -42,7 +36,7 @@ I am a 2nd-year Graduate Student at The University of Illinois at Chicago, pursu
 [![Reddit Badge](https://img.shields.io/badge/-u/daftdey-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/daftdey/ "Find on Reddit")
 ----
 
-</details> -->
+</details>
 
 <!-- [![Profile last updated](https://img.shields.io/github/last-commit/samujjwaal/samujjwaal/master?label=Last%20updated&style=flat)](https://github.com/samujjwaal/samujjwaal/commits) -->
 
@@ -77,13 +71,6 @@ I am a 2nd-year Graduate Student at The University of Illinois at Chicago, pursu
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samujjwaal)
 -->
-
-
-
- - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full-stack Javascript
-- 💞️ I’m looking to collaborate on JS project
-- 📫 How to reach me : On Git or email
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
