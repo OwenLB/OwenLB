@@ -57,9 +57,21 @@
 </details>
 
 
+<details>
+  <summary>:headphones: Un peu de musique</summary>
+  
+  <a href="owenlebec.fr"><img src="https://github.com/OwenLB/OwenLB/blob/main/ressources/Image.png" align="right" height="150" /></a>
+
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=owen.le.bec&cover_image=true&theme=default&bar_color=330aff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+ 
+----
+
+</details>
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=owen.le.bec&cover_image=true&theme=default&bar_color=330aff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+
+
 
 
 
