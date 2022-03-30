@@ -1,7 +1,7 @@
 
 ## Salut les gars c'est [Owen](owenlebec.fr) 👋
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lebec.owen@yahoo.fr "Connect via Email")
+[![Gmail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lebec.owen@yahoo.fr "Connect via Email")
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owenlb/ "Connect on LinkedIn")
 
 <a href="https://owenlebec.fr" target="blank"><img src="https://github.com/OwenLB/OwenLB/blob/main/ressources/IMG_2332.PNG" align="right" height="200" /></a>
