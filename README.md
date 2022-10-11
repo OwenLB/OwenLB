@@ -54,7 +54,7 @@
  ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
  
  ![mySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
- ![PostgreSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
+ ![PostgreSQL](https://img.shields.io/badge/postgresql-323330?style=for-the-badge&logo=postgresql&logoColor=white)
  
 ----
 
