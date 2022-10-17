@@ -1,5 +1,15 @@
 
-## Salut les gars c'est [Owen](owenlebec.fr) 👋
+<h1 align="center">
+Salut les gars c'est <a href="owenlebec.fr">Owen</a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+  <img src="https://gpvc.arturio.dev/OwenLB" alt="Profile views" align='right'/> <a href="https://github.com/OwenLB/"> </a> 
+<br/>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%C3%89tudiant+en+Informatique;Apprenti+FullStack+Web+D%C3%A9velopper;Master+2+D%C3%A9veloppement+FullStack" alt="Typing SVG" /></a>
+</p>
+<hr/>
 
 [![Gmail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lebec.owen@yahoo.fr "Connect via Email")
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owenlb/ "Connect on LinkedIn")
