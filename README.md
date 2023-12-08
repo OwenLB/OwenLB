@@ -15,8 +15,8 @@ Salut les gars c'est <a href="owenlebec.fr">Owen</a>
 
 <a href="https://owenlebec.fr" target="blank"><img src="https://github.com/OwenLB/OwenLB/blob/main/ressources/IMG_2332.PNG" align="right" height="200" /></a>
 <br/>
-<p>👨‍🎓 Étudiant en M2 Développement Web FullStack a Università di Corsica Pasquale Paoli.</p>
-<p>👨‍💻 Apprenti Développeur Web chez Crédit Mutuel Arkéa</p>
+<p>🎓 M2 Développement Web FullStack a Università di Corsica Pasquale Paoli.</p>
+<p>👨‍💻 Développeur Web Full Stack chez Thales - Naval Group</p>
 <br/>
 
 <details>
