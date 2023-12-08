@@ -6,7 +6,7 @@ Salut les gars c'est <a href="owenlebec.fr">Owen</a>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%C3%89tudiant+en+Informatique;Apprenti+FullStack+Web+D%C3%A9velopper;Master+2+D%C3%A9veloppement+FullStack" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=D%C3%A9veloppeur+FullStack+Web+D%C3%A9velopper;Master+2+D%C3%A9veloppement+FullStack" alt="Typing SVG" /></a>
 </p>
 <hr/>
 
