@@ -1,0 +1,39 @@
+name: Update profile stats
+
+# Runs monthly (and on-demand via workflow_dispatch) to refresh the
+# "GitHub Stats" block in README.md from live account data — see
+# scripts/update-stats.mjs. Requires a STATS_PAT repo secret: a personal
+# access token with `repo` + `read:user` scopes, so private repos/commits
+# count toward the totals (matching what the numbers reflected before this
+# was automated). The default GITHUB_TOKEN can't see private repos or
+# account-wide search results, so a PAT is required here.
+on:
+  schedule:
+    - cron: '0 4 1 * *' # 04:00 UTC on the 1st of every month
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Regenerate stats block
+        env:
+          STATS_PAT: ${{ secrets.STATS_PAT }}
+        run: node scripts/update-stats.mjs
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "Owen LE BEC"
+          git config user.email "lebec.owen@yahoo.fr"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No stats changes — skipping commit."
+            exit 0
+          fi
+          git commit -m "chore: update GitHub stats"
+          git push
